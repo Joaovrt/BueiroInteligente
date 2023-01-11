@@ -12,7 +12,11 @@
    <li>🛠<b> Protótipo</b></li><br>
     <p Align="justify">Para a elaboração do protótipo, foi adquirido um cesto e feito uma abertura em uma das faces, que funcionaria como a parte encostada à boca de lobo do bueiro. Em continuidade, duas chapas de metal foram fixadas na lateral do cesto para que pudessem ser encaixadas no bueiro. Além disso, também foi feita a fixação de puxadores na parte de dentro das chapas, para assim permitir a retirada e colocação com mais facilidade. Em seguida, um cano de alumínio foi alocado no centro do cesto para que pudesse apoiar o recipiente com equipamento eletrônico dentro e proteger a fiação.</p>
     <p Align="center"><img src="https://github.com/Joaovrt/BueiroInteligente/blob/main/Puxadores.jpg" width=70%></p>
-    <p Align="center"><https://github.com/Joaovrt/BueiroInteligente/blob/main/Suporte.jpg" width=30%></p>
+    <p Align="center"><img src="https://github.com/Joaovrt/BueiroInteligente/blob/main/Suporte.jpg" width=70%></p>
+    <p Align="center"><img src="https://github.com/Joaovrt/BueiroInteligente/blob/main/Projeto.jpeg" width=70%></p>
+    <p Align="justify">Sobre o hardware, utilizou-se um ESP8266, responsável por receber as informações do sensor de distância Hc-sr04 e enviá-las para um dashboard, através de sua conexão com a internet. Foi soldado na placa ilha as barras de pinos fêmea e macho para encaixar o ESP e os jumpers e desenhado as trilhas para funcionamento do sistema. De acordo com esse esquema, os procedimentos foram os seguintes: foi conectado o GND do sensor ao GND do ESP, o VCC do sensor ao VU do ESP, o pino TRIG do sensor de distância ao ESP na entrada D7, e o pino ECHO do sensor de distância na entrada D8 do ESP também.</p>
+    <p Align="center"><img src="" width=70%></p>
+    <p Align="center"><img src="" width=70%></p>
   <li>💡<b> Autores:</b></li><br>
   <p Align="justify">Diogo Pereira Almeida<br>Fernando Silva Martins<br>João Victor Oliveira Moreira<br>João Victor Rosa Tagliarini<br>José Antônio Soares Pinto<br>Lucas Ribeiro Bonfílio de Lemos<br>Matheus Aparecido de Oliveira Ramos</p>
 </ul>
